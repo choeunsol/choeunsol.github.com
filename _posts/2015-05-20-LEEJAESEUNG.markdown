@@ -1,11 +1,24 @@
+---
+layout: post
+title: "LEE JAE SEUNG"
+date: 2015-05-20
+---
+
+
 #굵은 글씨 1
+
 ##굵은 글씨 2
+
 ###굵은 글씨3
+
 ####굵은 글씨4
+
 #####굵은 글씨5
+
 ######굵은 글씨6
 
 *기울여 쓰기*
+
 **강조 하기**
 
 1. SAMSUNG
@@ -18,7 +31,9 @@
 		+ 리스트 안에 리스트
 	+ 한단계 위로
 
->인용인용인용
+>  인용인용인용
+
+> > 인용 안의 인용
 
 인라인 링크 : [Google](https://www.google.com)
 
@@ -35,18 +50,17 @@
 | b             | b     | e     |
 | c             | c     | f     |
 
-
-
-
-코드
-
-
-    //코드입력
+    // 코드입력
     #include <stdio.h>
     void main(){
-	    printf("헬로우 월드");
+    printf("헬로우 월드");
     }
 
 
+<<<<<<< HEAD
 asdasdasd
 aaaaaaaaaaaaaaaaaa
+=======
+
+
+>>>>>>> f02d485d26edb2241d2eec09057074826c0b12a3
