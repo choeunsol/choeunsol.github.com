@@ -9,18 +9,15 @@ date: 2015-05-20
 =============
 
 **목록**
-1. major
 
-2. age
-
-3. tel
-
+ 1. name
+ 2. major
+ 3. phone
 
  **List item**
+ 
  - apple
- 
  - banana
- 
  - melon
 
 
