@@ -4,55 +4,86 @@ title: "cho eunsol!!"
 date: 2015-05-20
 ---
 
+
 **cho eun sol!!**
-=================
-
-
-
-----------
+=============
 
 **목록**
-------
+
  1. name
  2. major
  3. phone
+ 4. **List item**
+ 
+ - apple
+ - banana
+ - melon
 
--------------
-Cho eunsol 
-*Cho eunsol* 
-***Cho eunsol!***
 
-> **Note:**
+###**BOLD**###
+**BOLD**
 
-> - StackEdit is accessible offline after the application has been loaded for the first time.
-> - Your local documents are not shared between different browsers or computers.
-> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+####*Italic*####
+***Italic***
 
-#### <i class="icon-file"></i> Create a document
 
-The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
 
-#### <i class="icon-folder-open"></i> Switch to another document
+> quote!!! 인용입니다!!!! 인용구!!! 인용 quote
 
-All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>.
+> It's a quote~~~~~~~~~~
 
-#### <i class="icon-pencil"></i> Rename a document
+> > 인용 안의 안용
 
-You can rename the current document by clicking the document title in the navigation bar.
+[https://www.google.co.kr](google)
 
-#### <i class="icon-trash"></i> Delete a document
+[http://www.naver.com](naver)
 
-You can delete the current document by clicking <i class="icon-trash"></i> **Delete document** in the document panel.
+inline 링크 => [google](http://google.com/ "Title")
+<p>reference 링크 => <a href="http://google.com/"
+title="Google">Google</a> ,
+<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a>
+, <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
 
-#### <i class="icon-hdd"></i> Export a document
 
-You can save the current document to a file by clicking <i class="icon-hdd"></i> **Export to disk** from the <i class="icon-provider-stackedit"></i> menu panel.
+----------
+이미지
 
-> **Tip:** Check out the [<i class="icon-upload"></i> Publish a document](#publish-a-document) section for a description of the different output formats.
-
+![enter image description here](http://www.venturesquare.net/wp-content/uploads/2015/03/itPHXUds7O5pcMtMtUcg.jpg)
 
 ----------
 
 
+표1
+
+| Name          | Grade | Money |
+| ------------- |:-----:| -----:|
+| cho           | 4.5   | $1600 |
+| kang          | 3     |   $12 |
+| kim           | 3.4   |    $1 |
+
+
+표2
+
+Fruits | Apple | Mellon
+--- | --- | ---
+*color* | `red` | green
+num | 1 | 2
+
+
+----------
+----------
+
+
+
+코드
+
+
+    //code 삽입
+    #include <stdio.h>
+    void main(){
+	    int a = 1, b = 2, c;
+	    c = a + b;
+	    printf("%d", c);
+    }
 
 
