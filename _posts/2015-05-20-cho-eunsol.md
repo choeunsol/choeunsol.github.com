@@ -13,6 +13,8 @@ date: 2015-05-20
  1. name
  2. major
  3. phone
+ 	- cell
+ 	- home
 
  **List item**
  
