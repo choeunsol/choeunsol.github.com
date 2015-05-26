@@ -40,8 +40,6 @@
 | b             | b     | e     |
 | c             | c     | f     |
 
-
-
     //코드입력
     #include <stdio.h>
     void main(){
