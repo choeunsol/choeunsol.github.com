@@ -41,7 +41,7 @@
 코드
 
 
-    //code 삽입
+    //코드입력
     #include <stdio.h>
     void main(){
 	    printf("헬로우 월드");
