@@ -14,9 +14,6 @@ date: 2015-05-20
  2. major
  3. phone
  
- 	- cell
- 	- home
-
  **List item**
  
  - apple
@@ -79,14 +76,13 @@ num | 1 | 2
 
 코드
 
-```{.c}
-//code 삽입
-#include <stdio.h>
-void main(){
-	int a = 1, b = 2, c;
-	c = a + b;
-	printf("%d", c);
-}
-```
+
+    //code 삽입
+    #include <stdio.h>
+    void main(){
+	    int a = 1, b = 2, c;
+	    c = a + b;
+	    printf("%d", c);
+    }
 
 
