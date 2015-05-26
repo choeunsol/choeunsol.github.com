@@ -13,6 +13,7 @@ date: 2015-05-20
  1. name
  2. major
  3. phone
+ 
  	- cell
  	- home
 
@@ -49,6 +50,8 @@ title="Google">Google</a> ,
 
 
 ----------
+이미지
+
 ![enter image description here](http://www.venturesquare.net/wp-content/uploads/2015/03/itPHXUds7O5pcMtMtUcg.jpg)
 
 ----------
