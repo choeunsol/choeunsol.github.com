@@ -19,7 +19,6 @@ date: 2015-05-20
  - banana
  - melon
 
-
 ....................
 
 **BOLD**
@@ -28,7 +27,10 @@ date: 2015-05-20
 
 *Italic*
 --------
+
 *Italic*
+
+
 ----------
 
 
@@ -39,8 +41,7 @@ date: 2015-05-20
 [https://www.google.co.kr](google)
 [http://www.naver.com](naver)
 
-
-inline 링크 => [google](http://example.com/ "Title")
+inline 링크 => [google](http://google.com/ "Title")
 <p>reference 링크 => <a href="http://google.com/"
 title="Google">Google</a> ,
 <a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a>
@@ -81,12 +82,5 @@ void main(){
 	printf("%d", c);
 }
 ```
-
- 
-
-
-
-
-
 
 
