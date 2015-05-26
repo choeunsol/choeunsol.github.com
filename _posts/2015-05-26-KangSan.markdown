@@ -57,10 +57,3 @@ date: 2015-05-20
     }
 
 
-<<<<<<< HEAD
-asdasdasd
-aaaaaaaaaaaaaaaaaa
-=======
-
-
->>>>>>> f02d485d26edb2241d2eec09057074826c0b12a3
