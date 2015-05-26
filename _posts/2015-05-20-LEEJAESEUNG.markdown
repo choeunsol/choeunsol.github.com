@@ -23,7 +23,7 @@
 		+ 리스트 안에 리스트
 	+ 한단계 위로
 
->인용인용인용
+> 인용인용인용
 
 인라인 링크 : [Google](https://www.google.com)
 
@@ -40,18 +40,12 @@
 | b             | b     | e     |
 | c             | c     | f     |
 
-
-
-
-코드
-
-
-
-    //코드입력
+    // 코드입력
     #include <stdio.h>
     void main(){
     printf("헬로우 월드");
     }
+
 
 
 
