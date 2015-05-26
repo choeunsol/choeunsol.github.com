@@ -8,36 +8,28 @@ date: 2015-05-20
 **cho eun sol!!**
 =============
 
-
 **목록**
 1. major
 2. age
 3. tel
+
 
  **List item**
  - apple
  - banana
  - melon
 
-....................
 
-**BOLD**
+###**BOLD**###
+#**BOLD**#
 
-----------
+####*Italic*####
+#***Italic***#
 
-**BOLD**
-
-
-*Italic*
-
-----------
-*Italic*
-----------
 
 
 > quote!!! 인용입니다!!!! 인용구!!! 인용 quote
 > It's a quote~~~~~~~~~~
-
 >> 인용 안의 안용
 
 [https://www.google.co.kr](google)
