@@ -42,16 +42,12 @@
 
 
 
-
-코드
-
-
-
     //코드입력
     #include <stdio.h>
     void main(){
     printf("헬로우 월드");
     }
+
 
 
 
