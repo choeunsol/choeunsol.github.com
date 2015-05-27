@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 식이요법
 permalink: /식이요법/
 ---
 
